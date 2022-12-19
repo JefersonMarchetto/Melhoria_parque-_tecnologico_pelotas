@@ -1,4 +1,4 @@
-# Backend do desafio compasso UOL
+# Evento Colaborativo handsOn - Compass UOL - centro tecnologico de pelotas.
 Evento colaborativo, voltado para o público universitário e com foco no uso de tecnologia para criar uma solução que atenda uma necessidade específica do Pelotas Parque Tecnológico, a qual será divulgada no dia 22/11. Para isso contaremos com um grupo de mentores da empresa Compass.UOL e com mentores do Parque Tecnológico.
 
 A inscrição nesse desafio deve ser feita em grupos de até 5 participantes, é importante que os participantes estejam cursando a partir do 4 semestre de suas formações acadêmicas, sendo necessário que os integrantes levem seus equipamentos (notebook) para a realização da atividade.
